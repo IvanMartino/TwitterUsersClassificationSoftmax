@@ -118,7 +118,7 @@ def get_users(FILE):
     return NAMES
 
 """
-This function clean a list of twitter users from double names.
+This function cleans a list of twitter users from double names.
 """
 def clean(List):
     ''' Check if given list contains any duplicates '''
